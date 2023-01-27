@@ -1,0 +1,8 @@
+API checklist
+แสดงสภาพอากาศแต่ละจังหวัด
+
+- province id (pk)
+- province name (TH/EN)
+- temperature 
+- สภาพอากาศ ฝนตก แดดแรง
+- population
